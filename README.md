@@ -5,7 +5,7 @@
 Me considero una persona adaptable, con habilidades analíticas y resolutivas. Siempre estoy dispuesto a enfrentar nuevos retos y aprender en el proceso. Busco constantemente oportunidades para colaborar con equipos talentosos y trabajar en entornos que promuevan la innovación y el crecimiento personal.
 
 ### 🌟 Habilidades y Especialidades
-- **Lenguajes y Tecnologías:** React, .Net, GeneXus, Pyhton.
+- **Lenguajes y Tecnologías:**  Java, .Net, React, Javascript GeneXus y Pyhton.
 - **Habilidades Blandas:** Comunicación efectiva, Adaptabilidad, Resolución de problemas, Liderazgo, Metodologías Ágiles, Trabajo en equipo, Proactividad.
 
 ### 🚀 Proyectos Destacados
