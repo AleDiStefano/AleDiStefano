@@ -1,6 +1,8 @@
-# ¡Hola! Soy Ale! 👋
+# ¡Hola! Soy Ale! 👋 un desarrollador de software con más de 5 años de experiencia, especializado en el Back-End.
 
-Soy un apasionado del desarrollo de software con más de 5 años de experiencia, especializado en GeneXus y ahora enfocado en tecnologías FullStack como React y .Net. Me motiva liderar equipos, contribuir con mi conocimiento, y siempre busco profundizar mis habilidades para crecer profesionalmente.
+💻 Mi objetivo es contribuir en una empresa que priorice las mejores prácticas de desarrollo y me ofrezca desafíos técnicos, permitiéndome seguir creciendo como desarrollador. Tengo un enfoque sólido en la investigación y resolución de problemas, asegurando el éxito en los proyectos en los que participo.
+
+Me considero una persona adaptable, con habilidades analíticas y resolutivas. Siempre estoy dispuesto a enfrentar nuevos retos y aprender en el proceso. Busco constantemente oportunidades para colaborar con equipos talentosos y trabajar en entornos que promuevan la innovación y el crecimiento personal.
 
 ### 🌟 Habilidades y Especialidades
 - **Lenguajes y Tecnologías:** React, .Net, GeneXus, Pyhton.
