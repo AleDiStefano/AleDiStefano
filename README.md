@@ -1,6 +1,6 @@
-# ¡Hola! Soy Ale! 👋 un desarrollador de software con más de 5 años de experiencia, especializado en el Back-End.
+# ¡Hola! Soy Ale! 👋 
 
-💻 Mi objetivo es contribuir en una empresa que priorice las mejores prácticas de desarrollo y me ofrezca desafíos técnicos, permitiéndome seguir creciendo como desarrollador. Tengo un enfoque sólido en la investigación y resolución de problemas, asegurando el éxito en los proyectos en los que participo.
+💻 Soy un desarrollador de software con más de 5 años de experiencia, especializado en el Back-End. Mi objetivo es contribuir en una empresa que priorice las mejores prácticas de desarrollo y me ofrezca desafíos técnicos, permitiéndome seguir creciendo como desarrollador. Tengo un enfoque sólido en la investigación y resolución de problemas, asegurando el éxito en los proyectos en los que participo.
 
 Me considero una persona adaptable, con habilidades analíticas y resolutivas. Siempre estoy dispuesto a enfrentar nuevos retos y aprender en el proceso. Busco constantemente oportunidades para colaborar con equipos talentosos y trabajar en entornos que promuevan la innovación y el crecimiento personal.
 
