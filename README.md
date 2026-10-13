@@ -1,11 +1,18 @@
-# ¡Hola! Soy Ale! 👋 
+👋 Hi! I'm Ale!
+A Backend Software Engineer with 6+ years of experience building and maintaining software solutions for international clients.
 
-💻 Soy un desarrollador de software con más de 5 años de experiencia, especializado en el Back-End. Mi objetivo es contribuir en una empresa que priorice las mejores prácticas de desarrollo y me ofrezca desafíos técnicos, permitiéndome seguir creciendo como desarrollador. Tengo un enfoque sólido en la investigación y resolución de problemas, asegurando el éxito en los proyectos en los que participo.
+💻 **My core expertise is backend development**, with hands-on experience in Java, Spring Boot, REST APIs, and SQL. I've worked across different technologies and business environments, developing a strong foundation in software engineering, problem-solving, and delivering reliable solutions.
 
-Me considero una persona adaptable, con habilidades analíticas y resolutivas. Siempre estoy dispuesto a enfrentar nuevos retos y aprender en el proceso. Busco constantemente oportunidades para colaborar con equipos talentosos y trabajar en entornos que promuevan la innovación y el crecimiento personal.
+🤖 **I'm increasingly focused on AI Engineering and AI-assisted development.** I actively use tools such as Claude Code and GitHub Copilot in my daily workflow to improve how I write, understand, and maintain code. I'm particularly interested in exploring how AI can be applied to build better software and solve real-world engineering problems.
+
+🌎 Beyond development, I've gained international experience working with and supporting clients across the US, Mexico, and the Caribbean. This has strengthened my ability to communicate technical concepts, adapt to different environments, and collaborate with diverse stakeholders.
+
+🚀 **I'm looking to take the next step in my career** with a team that values strong engineering fundamentals, continuous learning, and the practical application of AI in software development.
+
+If you're building backend systems, exploring AI-powered solutions, or looking for an engineer who combines solid fundamentals with a growth mindset, let's connect!
 
 ### 🌟 Habilidades y Especialidades
-- **Lenguajes y Tecnologías:**  Java, .Net, React, Javascript GeneXus y Pyhton.
+- **Lenguajes y Tecnologías:**  Java, React, Javascript.
 - **Habilidades Blandas:** Comunicación efectiva, Adaptabilidad, Resolución de problemas, Liderazgo, Metodologías Ágiles, Trabajo en equipo, Proactividad.
 
 ### 🚀 Proyectos Destacados
