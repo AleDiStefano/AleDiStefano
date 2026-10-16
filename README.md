@@ -11,16 +11,16 @@ A Backend Software Engineer with 6+ years of experience building and maintaining
 
 If you're building backend systems, exploring AI-powered solutions, or looking for an engineer who combines solid fundamentals with a growth mindset, let's connect!
 
-### 🌟 Habilidades y Especialidades
-- **Lenguajes y Tecnologías:**  Java, React, Javascript.
-- **Habilidades Blandas:** Comunicación efectiva, Adaptabilidad, Resolución de problemas, Liderazgo, Metodologías Ágiles, Trabajo en equipo, Proactividad.
+### 🌟 Skills & Expertise
+- **Languages & Technologies:** Java, React, JavaScript.
+- **Soft Skills:** Effective communication, Adaptability, Problem solving, Leadership, Agile methodologies, Teamwork, Proactivity.
 
-### 🚀 Proyectos Destacados
-- [Proyecto 1](#): BackEnd de un Ecommerse en .NET https://github.com/AleDiStefano/ECOMMERSE-BACKEND
-- [Proyecto 2](#): FrontEnd y BackEnd de un Ecommerse en React y .Net (pero sin base de datos) https://github.com/AleDiStefano/Ecommerse---React-.NET-
+### 🚀 Featured Projects
+- [Project 1](https://github.com/AleDiStefano/ECOMMERSE-BACKEND): E-commerce backend built with .NET.
+- [Project 2](https://github.com/AleDiStefano/Ecommerse---React-.NET-): E-commerce frontend and backend built with React and .NET (no database).
 
-### 📫 Contacto
-- **LinkedIn:** https://www.linkedin.com/in/alejandro-di-stefano-8bb937185/
+### 📫 Contact
+- **LinkedIn:** https://www.linkedin.com/in/alejandro-di-stefano-8bb937185/?locale=en-US
 - **Email:** distefanoalejandrom@gmail.com
 
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
+I'm always open to new opportunities and collaborations!
